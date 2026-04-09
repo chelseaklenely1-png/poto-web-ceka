@@ -127,10 +127,9 @@ export default function Home() {
         <div className="home-content">
           <h1>Hi, It's <span>Chelsea</span></h1>
           <h3>I'm a Developer</h3>
-          <h1>Halo ini test</h1>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            Hao test test
           </p>
 
           <div className="social-icons">

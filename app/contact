@@ -1,0 +1,8 @@
+export default function Contact() {
+  return (
+    <div style={{ padding: "50px" }}>
+      <h1>Contact</h1>
+      <p>Email: your@email.com</p>
+    </div>
+  );
+}
